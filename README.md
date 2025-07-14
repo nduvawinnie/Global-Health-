@@ -259,6 +259,4 @@ These findings highlight the need for **age-targeted health interventions**:
 - **Young Adults (19–35)**: Address lifestyle diseases, mental health, and reproductive health.
 - **Older Adults (61+)**: Strengthen elderly care systems, chronic disease management, and health insurance coverage.
 
-This chart can be used to advocate for **resource allocation** based on age-specific mortality risk.
-
 © 2025 | Nduva Winnie | Data Analytics Portfolio
